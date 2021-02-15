@@ -731,7 +731,7 @@
       <nome>Agrate Conturbia</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A089</codice_catastale>
       <id>84001</id>
       <id_provincia>84</id_provincia>
@@ -1431,7 +1431,7 @@
       <nome>Ales</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A182</codice_catastale>
       <id>6003</id>
       <id_provincia>6</id_provincia>
@@ -2261,7 +2261,7 @@
       <nome>Ancarano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A271</codice_catastale>
       <id>42002</id>
       <id_provincia>42</id_provincia>
@@ -2371,7 +2371,7 @@
       <nome>Andretta</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A285</codice_catastale>
       <id>110001</id>
       <id_provincia>110</id_provincia>
@@ -2691,7 +2691,7 @@
       <nome>Anzola dell'Emilia</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A326</codice_catastale>
       <id>7003</id>
       <id_provincia>7</id_provincia>
@@ -3191,7 +3191,7 @@
       <nome>Arese</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A390</codice_catastale>
       <id>51002</id>
       <id_provincia>51</id_provincia>
@@ -3751,7 +3751,7 @@
       <nome>Asciano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A462</codice_catastale>
       <id>44007</id>
       <id_provincia>44</id_provincia>
@@ -3891,7 +3891,7 @@
       <nome>Assoro</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A479</codice_catastale>
       <id>5005</id>
       <id_provincia>5</id_provincia>
@@ -4141,7 +4141,7 @@
       <nome>Avella</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A509</codice_catastale>
       <id>64008</id>
       <id_provincia>64</id_provincia>
@@ -5351,7 +5351,7 @@
       <nome>Barghe</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A662</codice_catastale>
       <id>72006</id>
       <id_provincia>72</id_provincia>
@@ -5421,7 +5421,7 @@
       <nome>Barlassina</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A669</codice_catastale>
       <id>110002</id>
       <id_provincia>110</id_provincia>
@@ -6101,7 +6101,7 @@
       <nome>Bellosguardo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A757</codice_catastale>
       <id>25006</id>
       <id_provincia>25</id_provincia>
@@ -6321,7 +6321,7 @@
       <nome>Benevello</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A783</codice_catastale>
       <id>62008</id>
       <id_provincia>62</id_provincia>
@@ -6421,7 +6421,7 @@
       <nome>Bergamasco</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A794</codice_catastale>
       <id>16024</id>
       <id_provincia>16</id_provincia>
@@ -6901,7 +6901,7 @@
       <nome>Bidonì</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A859</codice_catastale>
       <id>96004</id>
       <id_provincia>96</id_provincia>
@@ -7421,7 +7421,7 @@
       <nome>Bollengo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A944</codice_catastale>
       <id>37006</id>
       <id_provincia>37</id_provincia>
@@ -7491,7 +7491,7 @@
       <nome>Boltiere</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A952</codice_catastale>
       <id>21008</id>
       <id_provincia>21</id_provincia>
@@ -9031,7 +9031,7 @@
       <nome>Brescello</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>B157</codice_catastale>
       <id>17029</id>
       <id_provincia>17</id_provincia>
@@ -9201,7 +9201,7 @@
       <nome>Brignano-Frascata</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>B180</codice_catastale>
       <id>74001</id>
       <id_provincia>74</id_provincia>
@@ -10331,7 +10331,7 @@
       <nome>Cagli</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>B354</codice_catastale>
       <id>92009</id>
       <id_provincia>92</id_provincia>
@@ -10931,7 +10931,7 @@
       <nome>Caltagirone</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>B429</codice_catastale>
       <id>85004</id>
       <id_provincia>85</id_provincia>
@@ -11691,7 +11691,7 @@
       <nome>Campo Tures / Sand in Taufers</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>B519</codice_catastale>
       <id>70006</id>
       <id_provincia>70</id_provincia>
@@ -13491,7 +13491,7 @@
       <nome>Carbonera</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>B745</codice_catastale>
       <id>107003</id>
       <id_provincia>107</id_provincia>
@@ -15231,7 +15231,7 @@
       <nome>Caselle Torinese</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>B963</codice_catastale>
       <id>61022</id>
       <id_provincia>61</id_provincia>
@@ -18231,7 +18231,7 @@
       <nome>Castrovillari</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>C351</codice_catastale>
       <id>87015</id>
       <id_provincia>87</id_provincia>
@@ -18241,7 +18241,7 @@
       <nome>Catania</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>C352</codice_catastale>
       <id>79023</id>
       <id_provincia>79</id_provincia>
@@ -20491,7 +20491,7 @@
       <nome>Chiesina Uzzanese</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>C632</codice_catastale>
       <id>69022</id>
       <id_provincia>69</id_provincia>
@@ -22711,7 +22711,7 @@
       <nome>Commezzadura</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>C933</codice_catastale>
       <id>13075</id>
       <id_provincia>13</id_provincia>
@@ -23831,7 +23831,7 @@
       <nome>Coseano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D086</codice_catastale>
       <id>78045</id>
       <id_provincia>78</id_provincia>
@@ -24311,7 +24311,7 @@
       <nome>Cremolino</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D150</codice_catastale>
       <id>19036</id>
       <id_provincia>19</id_provincia>
@@ -24541,7 +24541,7 @@
       <nome>Crosio della Valle</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D122</codice_catastale>
       <id>101010</id>
       <id_provincia>101</id_provincia>
@@ -24711,7 +24711,7 @@
       <nome>Cunardo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D205</codice_catastale>
       <id>4078</id>
       <id_provincia>4</id_provincia>
@@ -26161,7 +26161,7 @@
       <nome>Enemonzo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>C342</codice_catastale>
       <id>86009</id>
       <id_provincia>86</id_provincia>
@@ -27181,7 +27181,7 @@
       <nome>Fermignano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D542</codice_catastale>
       <id>109006</id>
       <id_provincia>109</id_provincia>
@@ -27231,7 +27231,7 @@
       <nome>Ferrandina</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D548</codice_catastale>
       <id>38008</id>
       <id_provincia>38</id_provincia>
@@ -27721,7 +27721,7 @@
       <nome>Fiorenzuola d'Arda</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D612</codice_catastale>
       <id>48017</id>
       <id_provincia>48</id_provincia>
@@ -27971,7 +27971,7 @@
       <nome>Fobello</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D643</codice_catastale>
       <id>71024</id>
       <id_provincia>71</id_provincia>
@@ -28461,7 +28461,7 @@
       <nome>Forio</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D704</codice_catastale>
       <id>40012</id>
       <id_provincia>40</id_provincia>
@@ -29311,7 +29311,7 @@
       <nome>Frontone</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D810</codice_catastale>
       <id>60038</id>
       <id_provincia>60</id_provincia>
@@ -30611,7 +30611,7 @@
       <nome>Genoni</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>D969</codice_catastale>
       <id>10025</id>
       <id_provincia>10</id_provincia>
@@ -31661,7 +31661,7 @@
       <nome>Goriano Sicoli</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E098</codice_catastale>
       <id>31007</id>
       <id_provincia>31</id_provincia>
@@ -32431,7 +32431,7 @@
       <nome>Grosotto</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E202</codice_catastale>
       <id>53011</id>
       <id_provincia>53</id_provincia>
@@ -33021,7 +33021,7 @@
       <nome>Idro</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E281</codice_catastale>
       <id>107009</id>
       <id_provincia>107</id_provincia>
@@ -33101,7 +33101,7 @@
       <nome>Imola</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E290</codice_catastale>
       <id>8031</id>
       <id_provincia>8</id_provincia>
@@ -33391,7 +33391,7 @@
       <nome>Isera</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E335</codice_catastale>
       <id>94023</id>
       <id_provincia>94</id_provincia>
@@ -33861,7 +33861,7 @@
       <nome>Jovençan</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A345</codice_catastale>
       <id>66049</id>
       <id_provincia>66</id_provincia>
@@ -33931,7 +33931,7 @@
       <nome>La Salle</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E463</codice_catastale>
       <id>11015</id>
       <id_provincia>11</id_provincia>
@@ -34381,7 +34381,7 @@
       <nome>Langosco</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E441</codice_catastale>
       <id>105010</id>
       <id_provincia>105</id_provincia>
@@ -34601,7 +34601,7 @@
       <nome>Latiano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E472</codice_catastale>
       <id>59011</id>
       <id_provincia>59</id_provincia>
@@ -34851,7 +34851,7 @@
       <nome>Lazzate</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E506</codice_catastale>
       <id>75035</id>
       <id_provincia>75</id_provincia>
@@ -34871,7 +34871,7 @@
       <nome>Lecce nei Marsi</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E507</codice_catastale>
       <id>97042</id>
       <id_provincia>97</id_provincia>
@@ -35741,7 +35741,7 @@
       <nome>Livo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E625</codice_catastale>
       <id>49009</id>
       <id_provincia>49</id_provincia>
@@ -35911,7 +35911,7 @@
       <nome>Lodè</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E648</codice_catastale>
       <id>98031</id>
       <id_provincia>98</id_provincia>
@@ -36411,7 +36411,7 @@
       <nome>Lubriano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E715</codice_catastale>
       <id>46017</id>
       <id_provincia>46</id_provincia>
@@ -36911,7 +36911,7 @@
       <nome>Macello</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E783</codice_catastale>
       <id>43023</id>
       <id_provincia>43</id_provincia>
@@ -37861,7 +37861,7 @@
       <nome>Mantello</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>E897</codice_catastale>
       <id>20030</id>
       <id_provincia>20</id_provincia>
@@ -38901,7 +38901,7 @@
       <nome>Masone</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F023</codice_catastale>
       <id>45010</id>
       <id_provincia>45</id_provincia>
@@ -39131,7 +39131,7 @@
       <nome>Matelica</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F052</codice_catastale>
       <id>77014</id>
       <id_provincia>77</id_provincia>
@@ -39971,7 +39971,7 @@
       <nome>Mesoraca</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F158</codice_catastale>
       <id>83048</id>
       <id_provincia>83</id_provincia>
@@ -40281,7 +40281,7 @@
       <nome>Mignano Monte Lungo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F205</codice_catastale>
       <id>15146</id>
       <id_provincia>15</id_provincia>
@@ -40681,7 +40681,7 @@
       <nome>Moconesi</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F257</codice_catastale>
       <id>36023</id>
       <id_provincia>36</id_provincia>
@@ -44211,7 +44211,7 @@
       <nome>Monvalle</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F704</codice_catastale>
       <id>108033</id>
       <id_provincia>108</id_provincia>
@@ -45251,7 +45251,7 @@
       <nome>Nanto</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F839</codice_catastale>
       <id>63049</id>
       <id_provincia>63</id_provincia>
@@ -46171,7 +46171,7 @@
       <nome>Novalesa</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F952</codice_catastale>
       <id>3106</id>
       <id_provincia>3</id_provincia>
@@ -46391,7 +46391,7 @@
       <nome>Numana</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F979</codice_catastale>
       <id>91051</id>
       <id_provincia>91</id_provincia>
@@ -46701,7 +46701,7 @@
       <nome>Ogliastro Cilento</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G015</codice_catastale>
       <id>104017</id>
       <id_provincia>104</id_provincia>
@@ -47401,7 +47401,7 @@
       <nome>Oriolo Romano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G113</codice_catastale>
       <id>95038</id>
       <id_provincia>95</id_provincia>
@@ -48411,7 +48411,7 @@
       <nome>Paderno Ponchielli</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G224</codice_catastale>
       <id>28060</id>
       <id_provincia>28</id_provincia>
@@ -48811,7 +48811,7 @@
       <nome>Palermiti</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G273</codice_catastale>
       <id>82053</id>
       <id_provincia>82</id_provincia>
@@ -49311,7 +49311,7 @@
       <nome>Parlasco</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G337</codice_catastale>
       <id>34027</id>
       <id_provincia>34</id_provincia>
@@ -49681,7 +49681,7 @@
       <nome>Pavarolo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G388</codice_catastale>
       <id>18110</id>
       <id_provincia>18</id_provincia>
@@ -50381,7 +50381,7 @@
       <nome>Pertusio</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G478</codice_catastale>
       <id>54039</id>
       <id_provincia>54</id_provincia>
@@ -50391,7 +50391,7 @@
       <nome>Perugia</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G479</codice_catastale>
       <id>41044</id>
       <id_provincia>41</id_provincia>
@@ -50421,7 +50421,7 @@
       <nome>Pescantina</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G482</codice_catastale>
       <id>68028</id>
       <id_provincia>68</id_provincia>
@@ -50871,7 +50871,7 @@
       <nome>Pezzolo Valle Uzzone</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G535</codice_catastale>
       <id>33032</id>
       <id_provincia>33</id_provincia>
@@ -52201,7 +52201,7 @@
       <nome>Piraino</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G702</codice_catastale>
       <id>50026</id>
       <id_provincia>50</id_provincia>
@@ -52281,7 +52281,7 @@
       <nome>Pisticci</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G713</codice_catastale>
       <id>47014</id>
       <id_provincia>47</id_provincia>
@@ -53771,7 +53771,7 @@
       <nome>Porcia</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G888</codice_catastale>
       <id>93033</id>
       <id_provincia>93</id_provincia>
@@ -54211,7 +54211,7 @@
       <nome>Postua</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G942</codice_catastale>
       <id>76063</id>
       <id_provincia>76</id_provincia>
@@ -54661,7 +54661,7 @@
       <nome>Pratiglione</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>G999</codice_catastale>
       <id>100005</id>
       <id_provincia>100</id_provincia>
@@ -55771,7 +55771,7 @@
       <nome>Ragogna</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H163</codice_catastale>
       <id>88009</id>
       <id_provincia>88</id_provincia>
@@ -56001,7 +56001,7 @@
       <nome>Ravello</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H199</codice_catastale>
       <id>39014</id>
       <id_provincia>39</id_provincia>
@@ -56191,7 +56191,7 @@
       <nome>Reggello</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H224</codice_catastale>
       <id>80063</id>
       <id_provincia>80</id_provincia>
@@ -56201,7 +56201,7 @@
       <nome>Reggio di Calabria</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H223</codice_catastale>
       <id>35033</id>
       <id_provincia>35</id_provincia>
@@ -56621,7 +56621,7 @@
       <nome>Riesi</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H282</codice_catastale>
       <id>57059</id>
       <id_provincia>57</id_provincia>
@@ -56721,7 +56721,7 @@
       <nome>Rimella</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H294</codice_catastale>
       <id>99014</id>
       <id_provincia>99</id_provincia>
@@ -58441,7 +58441,7 @@
       <nome>Rolo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H501</codice_catastale>
       <id>58091</id>
       <id_provincia>58</id_provincia>
@@ -59341,7 +59341,7 @@
       <nome>Roviano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H620</codice_catastale>
       <id>29041</id>
       <id_provincia>29</id_provincia>
@@ -60011,7 +60011,7 @@
       <nome>Salerano sul Lambro</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H703</codice_catastale>
       <id>65116</id>
       <id_provincia>65</id_provincia>
@@ -63951,7 +63951,7 @@
       <nome>Sanguinetto</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>H974</codice_catastale>
       <id>106015</id>
       <id_provincia>106</id_provincia>
@@ -65931,7 +65931,7 @@
       <nome>Sassano</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>I452</codice_catastale>
       <id>90064</id>
       <id_provincia>90</id_provincia>
@@ -66211,7 +66211,7 @@
       <nome>Savoia di Lucania</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>I480</codice_catastale>
       <id>9056</id>
       <id_provincia>9</id_provincia>
@@ -68191,7 +68191,7 @@
       <nome>Siderno</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>I726</codice_catastale>
       <id>52032</id>
       <id_provincia>52</id_provincia>
@@ -68451,7 +68451,7 @@
       <nome>Sinopoli</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>I754</codice_catastale>
       <id>89017</id>
       <id_provincia>89</id_provincia>
@@ -68991,7 +68991,7 @@
       <nome>Sondalo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>I829</codice_catastale>
       <id>14061</id>
       <id_provincia>14</id_provincia>
@@ -70761,7 +70761,7 @@
       <nome>Tarantasca</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L049</codice_catastale>
       <id>73027</id>
       <id_provincia>73</id_provincia>
@@ -71111,7 +71111,7 @@
       <nome>Telve di Sopra</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L093</codice_catastale>
       <id>104025</id>
       <id_provincia>104</id_provincia>
@@ -71171,7 +71171,7 @@
       <nome>Teora</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L103</codice_catastale>
       <id>67041</id>
       <id_provincia>67</id_provincia>
@@ -71311,7 +71311,7 @@
       <nome>Ternengo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L117</codice_catastale>
       <id>55032</id>
       <id_provincia>55</id_provincia>
@@ -72111,7 +72111,7 @@
       <nome>Torgnon</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L219</codice_catastale>
       <id>1272</id>
       <id_provincia>1</id_provincia>
@@ -72801,7 +72801,7 @@
       <nome>Torrita Tiberina</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>A355</codice_catastale>
       <id>105018</id>
       <id_provincia>105</id_provincia>
@@ -73001,7 +73001,7 @@
       <nome>Trana</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L328</codice_catastale>
       <id>110009</id>
       <id_provincia>110</id_provincia>
@@ -73021,7 +73021,7 @@
       <nome>Traona</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L331</codice_catastale>
       <id>81021</id>
       <id_provincia>81</id_provincia>
@@ -73381,7 +73381,7 @@
       <nome>Trentinara</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L378</codice_catastale>
       <id>22205</id>
       <id_provincia>22</id_provincia>
@@ -73601,7 +73601,7 @@
       <nome>Treviolo</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L407</codice_catastale>
       <id>26086</id>
       <id_provincia>26</id_provincia>
@@ -73761,7 +73761,7 @@
       <nome>Triei</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L424</codice_catastale>
       <id>32006</id>
       <id_provincia>32</id_provincia>
@@ -74281,7 +74281,7 @@
       <nome>Ucria</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L483</codice_catastale>
       <id>30129</id>
       <id_provincia>30</id_provincia>
@@ -75951,7 +75951,7 @@
       <nome>Varenna</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L682</codice_catastale>
       <id>12133</id>
       <id_provincia>12</id_provincia>
@@ -76371,7 +76371,7 @@
       <nome>Venetico</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L736</codice_catastale>
       <id>27042</id>
       <id_provincia>27</id_provincia>
@@ -76481,7 +76481,7 @@
       <nome>Verano Brianza</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L746</codice_catastale>
       <id>103072</id>
       <id_provincia>103</id_provincia>
@@ -76521,7 +76521,7 @@
       <nome>Verceia</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L750</codice_catastale>
       <id>2158</id>
       <id_provincia>2</id_provincia>
@@ -76731,7 +76731,7 @@
       <nome>Veroli</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L781</codice_catastale>
       <id>23091</id>
       <id_provincia>23</id_provincia>
@@ -77131,7 +77131,7 @@
       <nome>Viarigi</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>F537</codice_catastale>
       <id>102047</id>
       <id_provincia>102</id_provincia>
@@ -77181,7 +77181,7 @@
       <nome>Vicchio</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L840</codice_catastale>
       <id>24116</id>
       <id_provincia>24</id_provincia>
@@ -78041,7 +78041,7 @@
       <nome>Villachiara</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>L924</codice_catastale>
       <id>106025</id>
       <id_provincia>106</id_provincia>
@@ -79051,7 +79051,7 @@
       <nome>Vita</nome>
    </comune>
    <comune>
-      <capoluogo_provincia>true</capoluogo_provincia>
+      <capoluogo_provincia>1</capoluogo_provincia>
       <codice_catastale>M082</codice_catastale>
       <id>56059</id>
       <id_provincia>56</id_provincia>
